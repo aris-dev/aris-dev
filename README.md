@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hola Amigos!!! 👋
 
-✨✨
+Sean Bienvenidos al perfil de
+   ✨CRISTHIAN ANTONIO✨
 
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
