@@ -1,16 +1,19 @@
 ### Hola Amigos!!! 👋
 
-Sean Bienvenidos al perfil de
+Sean Bienvenidos a mi perfil
    ✨CRISTHIAN ANTONIO✨
 
 <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Mis aptitudes y mis gustos
+
+- 🔭 Trabajando en el departamento de IT en Westfall-Technik Tijuana.
+- 🌱 Estoy apunto de culminar mis estudios universitarios.
+- 👯 Soy apasionado del mundo de los Zombies.
+- 🤔 Me gustaria aprender mineria de datos.
+- 💬 Me gusta programar en Java.
+- 📫 me gustaria poder llevar cursos de python.
+- 😄 Trabaje en un pequeno videojuego de plataforma en 2D.
+- ⚡ Me gustan los videjuegos.
 
